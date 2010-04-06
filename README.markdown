@@ -6,13 +6,22 @@
 # Day 1
 ## Structure (HTML)
 
- 1.	XHTML
- 2.	"semantic markup"
+ 1. DOCTYPEs
+ 2.	XHTML
+ 3.	Semantic markup
 
 # Day 2
 ## Presentation (CSS)
 
- 1.	
+ 1.	The cascade
+ 2.	The Box Model
+
+	1.	Content
+	2.	Padding
+	3.	Border
+	4.	Margin
+
+ 3.	Document flow
 
 # Day 3
 ## Behavior (JavaScript)
