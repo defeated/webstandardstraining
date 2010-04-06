@@ -9,6 +9,8 @@
  1. DOCTYPEs
  2.	XHTML
  3.	Semantic markup
+ 4. Forms design
+ 5. Validation tools
 
 # Day 2
 ## Presentation (CSS)
