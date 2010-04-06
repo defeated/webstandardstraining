@@ -26,7 +26,7 @@ This is a hands-on exercise. You'll need access to a machine with the following 
  3.	Document flow
  4.	Selectors
  5.	Layout vs. Typography
- 5. Grids
+ 5.	Grids
 
 # Day 3
 ## Behavior (JavaScript)
