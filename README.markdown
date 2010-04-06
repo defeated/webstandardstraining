@@ -23,3 +23,10 @@
 	4.	BOM
 	5.	AJAX
 	6.	JSON
+	
+# Further Reading
+
+	1.	Jeffrey Zeldman, _Designing with Web Standards, 3rd ed._ (New Riders Press, 2009)
+	2.	Andy Budd, _CSS Mastery: Advanced Web Standards Solutions_ (Friends of Ed, 2009)
+	3.	Jeremy Keith, _DOM Scripting: Web Design with JavaScript and the Document Object Model_ (Friends of Ed, 2005)
+	4.	Yehuda Katz, _jQuery in Action, 2nd ed._ (Manning Publications, 2010)
