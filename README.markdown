@@ -24,9 +24,13 @@ This is a hands-on exercise. You'll need access to a machine with the following 
 	3.	Border
 	4.	Margin
  3.	Document flow
+	1.	Float
+	2.	Position
  4.	Selectors
  5.	Layout vs. Typography
- 5.	Grids
+	1.	Separate "structure" from "skin"
+	2.	Separate "container" from "content"
+ 6.	Grids
 
 # Day 3
 ## Behavior (JavaScript)
@@ -57,3 +61,4 @@ This is a hands-on exercise. You'll need access to a machine with the following 
  2.	Andy Budd, _CSS Mastery: Advanced Web Standards Solutions_ (Friends of Ed, 2009)
  3.	Jeremy Keith, _DOM Scripting: Web Design with JavaScript and the Document Object Model_ (Friends of Ed, 2005)
  4.	Yehuda Katz, _jQuery in Action, 2nd ed._ (Manning Publications, 2010)
+ 5. Nicole Sullivan, _Object Oriented CSS_ (Presentation, <http://www.slideshare.net/stubbornella/object-oriented-css> 2008)
