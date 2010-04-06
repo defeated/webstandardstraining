@@ -1,6 +1,8 @@
 # Prerequisites
 
- 1.	Firefox 3.5
+This is a hands-on exercise. You'll need access to a machine with the following software installed:
+
+ 1.	Firefox 3.5+
  2.	FireBug extension
 
 # Day 1
@@ -24,6 +26,7 @@
  3.	Document flow
  4.	Selectors
  5.	Layout vs. Typography
+ 5. Grids
 
 # Day 3
 ## Behavior (JavaScript)
@@ -42,7 +45,8 @@
  4.	BOM
  5.	AJAX
  6.	JSON
- 7. Libraries
+ 7.	Animation
+ 8. Libraries
 	1.	PrototypeJS
 	2.	jQuery
 	
