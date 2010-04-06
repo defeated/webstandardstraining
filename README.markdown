@@ -15,13 +15,13 @@
 
  1.	The cascade
  2.	The Box Model
-
 	1.	Content
 	2.	Padding
 	3.	Border
 	4.	Margin
-
  3.	Document flow
+ 4.	Selectors
+ 5.	Layout vs. Typography
 
 # Day 3
 ## Behavior (JavaScript)
@@ -32,6 +32,9 @@
  4.	BOM
  5.	AJAX
  6.	JSON
+ 7. Libraries
+	1.	Prototype
+	2.	jQuery
 	
 # Further Reading
 
